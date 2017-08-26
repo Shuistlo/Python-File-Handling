@@ -1,5 +1,5 @@
 # Python-File-Handling
-We are trying to write a program in Python that will return some statistics on given key words from a set of documents
+We are trying to write a program in Python that will return some statistics on given key words from a set of documents <br /> 
 Just a learning experince in Python
 
 We need to read specifically word documents
