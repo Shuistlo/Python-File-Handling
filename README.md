@@ -7,8 +7,8 @@ EVERYTHNG must case insenstive that includes (account for bolds/italics/underlin
 All are .docx file Package [python-docx](http://python-docx.readthedocs.io/en/latest/user/documents.html)  <br /> 
 program may be run on the command line and must be able to navigate through a specified folder on its own <br /> 
 
-Program UI should look something like this:
-Bold = the program writing to you
+Program UI should look something like this: <br />
+**Bold = the program writing to you**
 _________________________________________________________________________________________________________________________________________
 
 ** Please enter the address of the folder you'd like to access: (C://.....) <br />**
