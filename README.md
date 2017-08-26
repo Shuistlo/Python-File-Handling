@@ -4,7 +4,7 @@ Just a learning experince in Python
 
 We need to read specifically word documents <br /> 
 EVERYTHNG must case insenstive that includes (account for bolds/italics/underlines with word itself) <br /> 
-All are .docx file Package python-docx  <br /> 
+All are .docx file Package [python-docx](http://python-docx.readthedocs.io/en/latest/user/documents.html)  <br /> 
 program may be run on the command line and must be able to navigate through a specified folder on its own <br /> 
 
 Program UI should look something like this:
