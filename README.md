@@ -18,7 +18,7 @@ ________________________________________________________________________________
 (Master's) <br /> 
 (Sweet Tomatoes) <br /> 
 (STOP) <br /> 
-Are you sure you want to stop (Please enter YES or NO)? <br /> 
+**Are you sure you want to stop (Please enter YES or NO)?** <br /> 
 (YES) <br /> 
 LOADING>>>> <br /> 
 Machine Learning: 140/150 documents <br /> 
