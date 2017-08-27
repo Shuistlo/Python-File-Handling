@@ -12,7 +12,7 @@ Program UI should look something like this: <br />
 _________________________________________________________________________________________________________________________________________
 
 **Please enter the address of the folder you'd like to access:** (C://.....) <br />
-**Please enter in a Key term you'd like to search for (Enter STOP to stop entering key terms):** Machine Learning <br /> 
+**Please input the key term(s) you'd like to search for (Enter STOP to stop entering key terms):** Machine Learning <br /> 
 Cats <br /> 
 Object Oriented Design and Specifcation <br /> 
 3 Years Experience <br /> 
